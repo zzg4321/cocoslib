@@ -1,0 +1,6 @@
+framework module cocoslib {
+  umbrella header "cocoslib-umbrella.h"
+
+  export *
+  module * { export * }
+}
